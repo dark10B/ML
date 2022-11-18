@@ -1,0 +1,15 @@
+Temperature,Outlook,Humidity,Windy,Played?
+Mild,Sunny,80,No,Yes
+Hot,Sunny,75,Yes,No
+Hot,Overcast,77,No,Yes
+Cool,Rain,70,No,Yes
+Cool,Overcast,72,Yes,Yes
+Mild,Sunny,77,No,No
+Cool,Sunny,70,No,Yes
+Mild,Rain,69,No,Yes
+Mild,Sunny,65,Yes,Yes
+Mild,Overcast,77,Yes,Yes
+Hot,Overcast,74,No,Yes
+Mild,Rain,77,Yes,No
+Cool,Rain,73,Yes,No
+Mild,Rain,78,No,Yes
